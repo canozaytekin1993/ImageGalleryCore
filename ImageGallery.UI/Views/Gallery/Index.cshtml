@@ -1,0 +1,17 @@
+﻿@model ImageGallery.UI.Models.GalleryIndexModel
+
+<div class="container body-content">
+    <div class="gallery-content">
+        @foreach (var image in Model.Images)
+        {
+            <div class="gallery-image"></div>
+            <span>image.Title</span>
+            foreach (var tag in image.Tags)
+            {
+                <li>
+                    @tag.Description
+                </li>
+            }
+        }
+    </div>
+</div>
