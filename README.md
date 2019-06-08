@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/27735701/59152477-81b05a80-8a3c-11e9-8660-2749cff68db7.png" alt="Your image title" width="600" height="150"/>
 
-### ASP.NET Core codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
+(ASP.NET Core codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.)
 
 [Real World](docs/CONTRIBUTING.md)
 
