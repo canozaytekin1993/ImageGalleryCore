@@ -14,9 +14,9 @@ For more information on how to this works with other frontends/backends, head ov
 This is using ASP.NET Core with:
 
 * CQRS and MediatR
-(*) Simplifying Development and Separating Concerns with MediatR
-(*) CQRS with MediatR and AutoMapper
-(*) Thin Controllers with CQRS and MediatR
+  - Simplifying Development and Separating Concerns with MediatR
+  - CQRS with MediatR and AutoMapper
+  - Thin Controllers with CQRS and MediatR
 * AutoMapper
 * Fluent Validation
 * Feature folders and vertical slices
